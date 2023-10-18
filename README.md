@@ -1,5 +1,6 @@
 # trading_strategy
-How to run:
+#How to run:
+
 1)git clone https://github.com/vavanja/trading_strategy.git
 2)python -m venv venv
 3)venv/Script/active
@@ -14,3 +15,6 @@ Realization:
 4. Із кожною провіркою рахуєм максимальну просадку і суму капітала погодинно.
 5. Далі інформуємо юзера через телеграм бота коли потрібно відкрити\закрити ордер.
 6. Коли часовий проміжок закінчується підраховуємо дані і виводиму юзеру в тг + розраховуєм зміну бюджету за цей період у вигляду графіку.
+
+#Link на першу частину задачі:
+  https://drive.google.com/file/d/1oNHpMPFCkG4432QptCF66xTFBSPK-IMG/view?usp=sharing
